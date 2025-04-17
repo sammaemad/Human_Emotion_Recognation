@@ -1,6 +1,5 @@
 # Human Recognition Project
-
-![images](https://github.com/user-attachments/assets/21e7ad8e-39cd-4c2e-a150-dbf85254e129)
+![download](https://github.com/user-attachments/assets/ad7bf1b0-f102-4db3-becc-08a7a79c107b)
 
 This is a Streamlit-based web application that uses the DeepFace library to analyze and recognize human emotions from images and videos.
 
